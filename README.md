@@ -1,0 +1,2 @@
+# UAV_Subband_Allocation_Centralized_Version_DQN_Pytorch
+Centralized Version of UAV Subband Allocation using DQN Pytorch
